@@ -1,3 +1,5 @@
+## Rationale
+
 Semantic search in emoji space
 
 ## References
